@@ -1,3 +1,5 @@
+Source https://forum.cursor.com/t/cursor-feature-summary-for-colleagues-with-annotated-screenshots/6476 and other websites
+
 Cursor key combinations
 Ctrl + K for in-file code generation
 Ctrl + L to open up an AI chat panel in the sidebar
