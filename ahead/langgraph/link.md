@@ -3,3 +3,4 @@
 3. https://docs.python.org/3/library/typing.html
 4. https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
 5. https://stackoverflow.com/questions/71898644/how-to-use-python-typing-annotated
+6. Class-based syntax https://mypy.readthedocs.io/en/stable/typed_dict.html#class-based-syntax
